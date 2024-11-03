@@ -7,13 +7,13 @@ This report is explaining how I'm doing my phd
 ## On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey
 [PDF](https://arxiv.org/pdf/2406.15126)
 
-- Creation of synthetic data with LLM in three steps: Generation, Curation, Evaluation.
-- Generation:
+The paper explains how to create synthetic data with LLM's. It also specifies three steps: Data Generation, Data Curation, Data Evaluation.
+- Data Generation:
     - Prompt Engineering
     - Multi-Step Generation
-- Curation:
+- Data Curation:
     - Sample filtering
     - Label enhancement
-- Evaluation:
+- Data Evaluation:
     - Direct evaluation
     - Indirect evaluation
