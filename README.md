@@ -102,28 +102,28 @@ The collection and curation of high-quality training data is crucial for develop
 Machine-learning-powered text classification models are widely used in applications like detecting biased or toxic language and filtering spam emails. Their performance heavily relies on the quality of training data, posing challenges for novel tasks or new classification categories due to the complexity and cost of data curation. Recent advancements in LLMs have prompted exploration into generating synthetic data to augment or replace real-world datasets. This study investigates whether LLM-generated synthetic data can match the performance of real-world data for training models, focusing on the impact of task subjectivity.
 
 ### Table of Contents
-1. [Introduction](#introduction)
-2. [Related Work](#related-work)
+1. Introduction
+2. Related Work
    - Generative AI in Synthetic Data Generation
    - Large Language Models
-3. [Methodology](#methodology)
+3. Methodology
    - Zero-shot Synthetic Data Generation
    - Few-shot Synthetic Data Generation
-4. [Evaluation I: Comparison Across Different Types of Tasks](#evaluation-i-comparison-across-different-types-of-tasks)
+4. Evaluation I: Comparison Across Different Types of Tasks
    - Datasets and Tasks
    - Task-level Subjectivity Determination
    - Model Training
    - Evaluation Results
    - Exploratory Analysis: Data Diversity
-5. [Evaluation II: Comparison Across Different Task Instances](#evaluation-ii-comparison-across-different-task-instances)
+5. Evaluation II: Comparison Across Different Task Instances
    - Instance-level Subjectivity Determination
    - Evaluation Results
-6. [Conclusions and Discussions](#conclusions-and-discussions)
+6. Conclusions and Discussions
    - Why Subjectivity Adversely Impacts the Effectiveness of the Synthetic Data?
    - Explaining a Few Exceptions
    - Limitations and Future Work
-7. [Mathematical Content](#mathematical-content)
-8. [References](#references)
+7. Mathematical Content
+8. References
 
 ### Mathematical Content
 The formula below represents the instance-level annotation agreement as a proxy for subjectivity:
