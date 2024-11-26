@@ -50,32 +50,32 @@ Large language models have revolutionized NLP research through the prompt-and-pr
 
 #### 3. Demonstration and Examples
 #### 4. DataDreamer
-- **Installation**
-- **Sessions**
-- **Steps**
-- **Models**
-- **Trainers**
-- **Caching and Sharing Workflows**
-- **Resumability**
-- **Sharing Open Data and Open Models**
-- **Efficiency and Optimizations**
-- **Configuration and Extensibility**
+- Installation
+- Sessions
+- Steps
+- Models
+- Trainers
+- Caching and Sharing Workflows
+- Resumability
+- Sharing Open Data and Open Models
+- Efficiency and Optimizations
+- Configuration and Extensibility
 
 #### 5. Reproducibility
 #### 6. Conclusion
 
 ##### Appendices:
-- **Instruction-Tuning a LLM**
-- **Aligning a LLM**
-- **Self-Rewarding LLMs**
-- **Augmenting an Existing Dataset**
-- **Example Synthetic Data Card**
+- Instruction-Tuning a LLM
+- Aligning a LLM
+- Self-Rewarding LLMs
+- Augmenting an Existing Dataset
+- Example Synthetic Data Card
 
 ### 3. Mathematical Content
 
 The document contains theoretical frameworks rather than explicit mathematical equations. It discusses concepts like:
-- **Reproducibility Fingerprints**: Hash-based uniqueness for workflows.
-- **Optimization Techniques**: Multi-GPU processing, quantization, and parameter-efficient fine-tuning.
+- Reproducibility Fingerprints: Hash-based uniqueness for workflows.
+- Optimization Techniques: Multi-GPU processing, quantization, and parameter-efficient fine-tuning.
 
 ### 4. Conclusions
 
@@ -84,9 +84,9 @@ The paper emphasizes the critical role of reproducibility in NLP research, propo
 ### 5. References
 
 The document includes an extensive reference list on topics like:
-- **LLM Optimization**
-- **Reproducibility Challenges**
-- **Applications in NLP Research**
+- LLM Optimization
+- Reproducibility Challenges
+- Applications in NLP Research
 
 Let me know if you'd like specific references detailed or checked for familiarity.
 
