@@ -1,13 +1,13 @@
-## Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations
+# Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations
 [PDF](https://arxiv.org/pdf/2310.07849)
 
-### Abstract
+## Abstract
 The collection and curation of high-quality training data is crucial for developing text classification models with superior performance but often comes at significant cost and time investment. Researchers have recently explored using large language models (LLMs) to generate synthetic datasets as an alternative. However, the effectiveness of LLM-generated synthetic data in supporting model training is inconsistent across different classification tasks. This study examines how model performance varies with the subjectivity of classification. Results suggest subjectivity, at both task and instance levels, negatively affects performance when models are trained on synthetic data. The study concludes with implications for leveraging LLMs for synthetic data generation.
 
-### Introduction
+## Introduction
 Machine-learning-powered text classification models are widely used in applications like detecting biased or toxic language and filtering spam emails. Their performance heavily relies on the quality of training data, posing challenges for novel tasks or new classification categories due to the complexity and cost of data curation. Recent advancements in LLMs have prompted exploration into generating synthetic data to augment or replace real-world datasets. This study investigates whether LLM-generated synthetic data can match the performance of real-world data for training models, focusing on the impact of task subjectivity.
 
-### Table of Contents
+## Table of Contents
 1. Introduction
 2. Related Work
    - Generative AI in Synthetic Data Generation
@@ -31,7 +31,7 @@ Machine-learning-powered text classification models are widely used in applicati
 7. Mathematical Content
 8. References
 
-### Mathematical Content
+# Mathematical Content
 The formula below represents the instance-level annotation agreement as a proxy for subjectivity:
 
 \[
@@ -43,10 +43,10 @@ Where:
 - \( K_i \): Total annotators for instance \( i \).  
 - \( r^k_i \): Annotation by \( k \)-th annotator for instance \( i \).  
 
-### Conclusions
+# Conclusions
 The study highlights how subjectivity negatively impacts the utility of LLM-generated synthetic data for training text classification models. While models trained on synthetic data struggle with subjective tasks, guiding synthetic data generation with real-world examples can improve effectiveness. The findings encourage exploring strategies to increase data diversity and better reflect real-world data distributions.
 
-### References
+# References
 - Zhuoyan Li et al., **Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations**, Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society.
 - Saif Mohammad et al., **SemEval-2018 Task 1: Affect in Tweets**, Proceedings of the 12th International Workshop on Semantic Evaluation.
 - Dorottya Demszky et al., **GoEmotions: A Dataset of Fine-Grained Emotions**, ACL 2020.
