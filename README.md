@@ -1,7 +1,9 @@
 # 101_phd
-This report is explaining how I'm doing my phd
+This repository is going to explain all the steps given by me in order to do my phd.
 
-## Documents
+A very useful step is to read a metapaper of papers which explains how to read papers. [PDF](paper-reading.pdf)
+
+## Papers
 | Paper | Useful |
 |---|---|
 |[On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://github.com/federicoperezmarina/101_phd/tree/main/2406.15126) | :white_check_mark: |
