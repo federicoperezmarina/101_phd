@@ -11,4 +11,4 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://github.com/federicoperezmarina/101_phd/tree/main/2310.07849) | :white_check_mark: |
 |[Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://github.com/federicoperezmarina/101_phd/tree/main/2406.20094) | :x: |
 |[The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussion](https://github.com/federicoperezmarina/101_phd/tree/main/2406.12480)| :white_check_mark: |
-|[MedSyn: LLM-based Synthetic Medical TextGeneration Framework](https://github.com/federicoperezmarina/101_phd/tree/main/2406.12480)| :white_check_mark: |
+|[MedSyn: LLM-based Synthetic Medical TextGeneration Framework](https://github.com/federicoperezmarina/101_phd/tree/main/2408.0256)| :white_check_mark: |
