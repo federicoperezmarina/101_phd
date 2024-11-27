@@ -1,4 +1,5 @@
 # MedSyn: LLM-based Synthetic Medical Text Generation Framework
+Source: [PDF](https://arxiv.org/pdf/2408.02056)
 
 ## 1. Title, Abstract, and Introduction
 

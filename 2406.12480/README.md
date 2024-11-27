@@ -1,4 +1,5 @@
 # The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussions
+Source: [PDF](https://arxiv.org/pdf/2406.12480)
 
 # 1. Title, Abstract, and Introduction
 
