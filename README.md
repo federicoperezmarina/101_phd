@@ -22,7 +22,7 @@ A very useful step is to read a metapaper of papers which explains how to read p
     - Prompt engineering:
         - Zero-shot
         - Few-shot / Multi-step generation
-- With specialized LLM
+- With specialized LLM (Model trained for specific tasks)
     - Prompt engineering:
         - Zero-shot
         - Few-shot / Multi-step generation
