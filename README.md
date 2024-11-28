@@ -15,7 +15,8 @@ A very useful step is to read a metapaper of papers which explains how to read p
 
 
 ## Data Generation
-How to generate Synthetic Data?
+
+### How to generate Synthetic Data?
 - With a generic LLM
     - Give Context to the LLM
     - Prompt engineering:
@@ -26,6 +27,6 @@ How to generate Synthetic Data?
         - Zero-shot
         - Few-shot / Multi-step generation
 
-What can I use?
+### What can I use? (Tools)
 - LangChain
 - DataDreamer
