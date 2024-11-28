@@ -27,5 +27,5 @@ How to generate Synthetic Data?
         - Few-shot / Multi-step generation
 
 What can I use?
-    - LangChain
-    - DataDreamer    
+- LangChain
+- DataDreamer
