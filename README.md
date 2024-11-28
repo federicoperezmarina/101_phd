@@ -12,3 +12,20 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://github.com/federicoperezmarina/101_phd/tree/main/2406.20094) | :x: |
 |[The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussion](https://github.com/federicoperezmarina/101_phd/tree/main/2406.12480)| :white_check_mark: |
 |[MedSyn: LLM-based Synthetic Medical TextGeneration Framework](https://github.com/federicoperezmarina/101_phd/tree/main/2408.02056)| :white_check_mark: |
+
+
+## Data Generation
+How to generate Synthetic Data?
+- With a generic LLM
+    - Give Context to the LLM
+    - Prompt engineering:
+        - Zero-shot
+        - Few-shot / Multi-step generation
+- With specialized LLM
+    - Prompt engineering:
+        - Zero-shot
+        - Few-shot / Multi-step generation
+
+What can I use?
+    - LangChain
+    - DataDreamer    
