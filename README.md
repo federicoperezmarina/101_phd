@@ -30,8 +30,3 @@ A very useful step is to read a metapaper of papers which explains how to read p
 ### What can I use? (Tools)
 - LangChain
 - DataDreamer
-
-
-- Gaps en la Survey que hay. 
-- Metodologia para el fine tuning de un modelo
-- 
