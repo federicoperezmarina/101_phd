@@ -26,5 +26,8 @@ dist/
 # Ignore DataDreamer
 code/DataDreamer/
 
+# Ignore code/phd
+code/phd/
+
 # Environment variables
 .env
