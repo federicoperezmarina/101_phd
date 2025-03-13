@@ -22,13 +22,15 @@ A very useful step is to read a metapaper of papers which explains how to read p
     - Give Context to the LLM
     - Prompt engineering:
         - Zero-shot
-        - Few-shot / Multi-step generation
+        - One-shot
+        - Few-shot 
+        - Multi-step generation
 - With specialized LLM (Model trained for specific tasks)
     - Prompt engineering:
         - Zero-shot
-        - Few-shot / Multi-step generation
+        - One-shot
+        - Few-shot
+        - Multi-step generation
 
 ### What can I use? (Tools)
-- LangChain
-- DataDreamer
-- Ollama
+- We are going to use Ollama in order to start doing our code.
