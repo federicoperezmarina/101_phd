@@ -37,4 +37,4 @@ A very useful step is to read a metapaper of papers which explains how to read p
 - We are going to use Ollama in order to start doing our code.
 
 ### Prompt Engineering deep dive
--
+- Start Coding different techniques.
