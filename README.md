@@ -13,6 +13,7 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussion](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2406.12480)| :white_check_mark: |
 |[MedSyn: LLM-based Synthetic Medical TextGeneration Framework](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2408.02056)| :white_check_mark: |
 |[LLM-Based Synthetic Datasets: Applications and Limitations in Toxicity Detection](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2024trac_16)|:x:|
+|[A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2402.07927)| :white_check_mark: |
 
 
 ## Data Generation
@@ -34,3 +35,6 @@ A very useful step is to read a metapaper of papers which explains how to read p
 
 ### What can I use? (Tools)
 - We are going to use Ollama in order to start doing our code.
+
+### Prompt Engineering deep dive
+-
