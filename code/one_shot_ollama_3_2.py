@@ -12,7 +12,8 @@ for prompt in one_shot_prompts:
       {
         'role': 'user',
         'content': prompt,
-      }
+      },
+      {}
     ]
 
     response = chat('llama3.2', messages=messages)
