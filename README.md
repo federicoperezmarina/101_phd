@@ -16,6 +16,7 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2402.07927)| :white_check_mark: |
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.11903)| :white_check_mark: |
 |[Automatic Chain of Thought Prompting in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2210.03493)| :white_check_mark: |
+|[Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/22102203.11171)| :white_check_mark: |
 
 
 ## Data Generation
@@ -30,7 +31,9 @@ A very useful step is to read a metapaper of papers which explains how to read p
 
 ### Prompt Engineering deep dive
 - Secuence techniques
-    - Chain of Tougth
+    - Chain of Tougth (CoT)
+    - Auto-CoT
+    - Self-Consistency
 
 ## Data Curation
 - Comming soon
