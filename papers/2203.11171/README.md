@@ -35,3 +35,25 @@ Language models have excelled in many NLP tasks but still struggle with reasonin
 **Answer selection via majority vote:**
 ```math
 \text{argmax}_a \sum_{i=1}^{m} \mathbf{1}(a_i = a)
+
+
+## Conclusion
+Self-consistency is a simple, effective decoding strategy that improves reasoning accuracy in large language models across various tasks. It enables models to produce more reliable answers, offers insight into their reasoning, and improves confidence calibration. While more computationally expensive, it requires no extra training and can be useful even with few sampled paths. It also shows promise for future applications in training and evaluation workflows.
+
+One limitation of self-consistency is that it incurs more computational cost. In practice, using as few as 5–10 paths can yield most of the benefits without the full cost of 40 samples. It can also be extended to help generate better training data for supervised fine-tuning.
+
+## References
+🧠 Brown et al., 2020 – Language models are few-shot learners (GPT-3)
+🧠 Wei et al., 2022 – Chain-of-Thought Prompting
+🧠 Chowdhery et al., 2022 – PaLM
+🧠 Cobbe et al., 2021 – Training verifiers for math problems
+🧠 Kojima et al., 2022 – Zero-shot CoT
+🧠 Adiwardana et al., 2020 – Towards human-like chatbots (Meena)
+🧠 Holtzman et al., 2020 – The curious case of neural degeneration (nucleus sampling)
+🧠 Li & Jurafsky, 2016 – Diverse decoding strategies
+Fan et al., 2018 – Hierarchical story generation
+Gao et al., 2021 – Better few-shot learners with prompt engineering
+Elazar et al., 2021 – Improving model consistency
+Nye et al., 2021 – Dual-system reasoning for coherence
+Xu et al., 2021 – Commonsense QA with reasoning chains
+
