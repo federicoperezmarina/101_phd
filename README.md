@@ -14,27 +14,26 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[MedSyn: LLM-based Synthetic Medical TextGeneration Framework](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2408.02056)| :white_check_mark: |
 |[LLM-Based Synthetic Datasets: Applications and Limitations in Toxicity Detection](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2024trac_16)|:x:|
 |[A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2402.07927)| :white_check_mark: |
+|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.11903)| :white_check_mark: |
+|[Automatic Chain of Thought Prompting in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2210.03493)| :white_check_mark: |
 
 
 ## Data Generation
 
 ### How to generate Synthetic Data?
 - With a generic LLM
-    - Give Context to the LLM
-    - Prompt engineering:
-        - Zero-shot
-        - One-shot
-        - Few-shot 
-        - Multi-step generation
 - With specialized LLM (Model trained for specific tasks)
-    - Prompt engineering:
-        - Zero-shot
-        - One-shot
-        - Few-shot
-        - Multi-step generation
+
 
 ### What can I use? (Tools)
 - We are going to use Ollama in order to start doing our code.
 
 ### Prompt Engineering deep dive
-- Start Coding different techniques.
+- Secuence techniques
+    - Chain of Tougth
+
+## Data Curation
+- Comming soon
+
+## Data Validation
+- Comming soon
