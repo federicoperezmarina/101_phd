@@ -1,6 +1,6 @@
 from ollama import chat
 
-context_prompt = "Este es un texto de prueba. \n" * 1000000
+context_prompt = "Este es un texto de prueba. \n" * 100000
 
 prompt = 'Supercalifragilisticoexpialidoso \n'+context_prompt+'''\nFind in all the context something about Mary Poppins'''
 
