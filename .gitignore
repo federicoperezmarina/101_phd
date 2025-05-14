@@ -16,6 +16,7 @@ dist/
 # Ignore IDE/editor settings
 .vscode/
 .idea/
+.idx/
 *.iml
 
 # Ignore OS-generated files
