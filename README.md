@@ -17,6 +17,8 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.11903)| :white_check_mark: |
 |[Automatic Chain of Thought Prompting in Large Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2210.03493)| :white_check_mark: |
 |[Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2203.11171)| :white_check_mark: |
+|[Large Language Model Guided Tree-of-Thought](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.08291)| :white_check_mark: |
+|[Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.16582)| :white_check_mark: |
 
 
 ## Data Generation
@@ -34,6 +36,8 @@ A very useful step is to read a metapaper of papers which explains how to read p
     - Chain of Tougth (CoT)
     - Auto-CoT
     - Self-Consistency
+    - Tree-of-Thought (ToT)
+    - Graph-of-Thought (GoT)
 
 ## Data Curation
 - Comming soon
