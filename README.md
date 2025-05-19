@@ -20,6 +20,7 @@ A very useful step is to read a metapaper of papers which explains how to read p
 |[Large Language Model Guided Tree-of-Thought](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.08291)| :white_check_mark: |
 |[Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2201.16582)| :white_check_mark: |
 |[CHAIN-OF-TABLE: EVOLVING TABLES IN THE REASONING CHAIN FOR TABLE UNDERSTANDING](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2401.04398)| :white_check_mark: |
+|[Best Practices and Lessons Learned on Synthetic Data](https://github.com/federicoperezmarina/101_phd/tree/main/papers/2404.07503)| :white_check_mark: |
 
 
 ## Data Generation
